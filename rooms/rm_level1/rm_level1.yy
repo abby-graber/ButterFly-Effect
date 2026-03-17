@@ -6,8 +6,8 @@
   "inheritCreationOrder":false,
   "inheritLayers":false,
   "instanceCreationOrder":[
-    {"name":"inst_19BFBAB6","path":"rooms/rm_level1/rm_level1.yy",},
     {"name":"inst_49EA9D0A","path":"rooms/rm_level1/rm_level1.yy",},
+    {"name":"inst_19BFBAB6","path":"rooms/rm_level1/rm_level1.yy",},
     {"name":"inst_293F2AF8","path":"rooms/rm_level1/rm_level1.yy",},
     {"name":"inst_6BFE399E","path":"rooms/rm_level1/rm_level1.yy",},
     {"name":"inst_75DA5432","path":"rooms/rm_level1/rm_level1.yy",},

@@ -1,3 +1,5 @@
+clicked = false;
+
 side = irandom(3); // 0=top, 1=bottom, 2=left, 3=right
 
 switch (side) {
