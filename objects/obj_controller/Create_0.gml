@@ -1,3 +1,4 @@
+global.startLevel = false;
 global.paused = false;
 global.pauseSurf = -1;
 global.difficulty = -1;
