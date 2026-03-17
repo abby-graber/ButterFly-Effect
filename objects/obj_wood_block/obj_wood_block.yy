@@ -35,5 +35,5 @@
     "path":"sprites/spr_wood_block/spr_wood_block.yy",
   },
   "spriteMaskId":null,
-  "visible":true,
+  "visible":false,
 }
