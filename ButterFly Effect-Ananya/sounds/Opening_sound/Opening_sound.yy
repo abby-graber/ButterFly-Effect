@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"Opening_sound",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":100.0,
+  "exportDir":"",
+  "name":"Opening_sound",
+  "parent":{
+    "name":"Sound_Effects",
+    "path":"folders/Sound_Effects.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"Opening_sound.wav",
+  "volume":1.0,
+}

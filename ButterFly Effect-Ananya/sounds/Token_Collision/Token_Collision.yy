@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"Token_Collision",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":2.5920181,
+  "exportDir":"",
+  "name":"Token_Collision",
+  "parent":{
+    "name":"Sound_Effects",
+    "path":"folders/Sound_Effects.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"Token_Collision.mp3",
+  "volume":1.0,
+}
